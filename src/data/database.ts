@@ -237,6 +237,27 @@ export const defaultDatabase: Database = {
   ],
   "products": [
     {
+      "id": "prod-1794403050240",
+      "title": "proboy dev",
+      "slug": "prod-1794403050240",
+      "description": "Short description of this service.",
+      "longDescription": "HERE IS FULL DESCRIPTION",
+      "category": "dev",
+      "image": "/uploads/mwc59kjlzp9j90.jpg",
+      "gallery": [],
+      "price": 1999,
+      "oldPrice": 3999,
+      "rating": 5,
+      "reviews": "New",
+      "badge": "Best Seller",
+      "tags": [],
+      "accent": "#1DB86A",
+      "icon": "sparkle",
+      "popularity": 51,
+      "deliveryTime": "24-48 Hours",
+      "inStock": true
+    },
+    {
       "id": "prod-1794377815067",
       "title": "Mobile Reset Apk",
       "slug": "mobile-reset-apk",
