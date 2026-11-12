@@ -243,6 +243,27 @@ export const defaultDatabase: Database = {
   ],
   "products": [
     {
+      "id": "prod-1794498757324",
+      "title": "Whatsapp Unban",
+      "slug": "prod-1794498757324",
+      "description": "Recover your WhatsApp account temporary ban/permanent ban to get more information click on buy now ",
+      "longDescription": "",
+      "category": "whatsapp",
+      "image": "/uploads/mwdq9mwq04d139.jpg",
+      "gallery": [],
+      "price": 3000,
+      "oldPrice": 3999,
+      "rating": 5,
+      "reviews": "New",
+      "badge": "New",
+      "tags": [],
+      "accent": "#1DB86A",
+      "icon": "sparkle",
+      "popularity": 57,
+      "deliveryTime": "24-48 Hours",
+      "inStock": true
+    },
+    {
       "id": "prod-1794498565514",
       "title": "Facebook Hack",
       "slug": "prod-1794498565514",
