@@ -196,7 +196,7 @@ export const defaultDatabase: Database = {
     },
     {
       "id": "design",
-      "label": "Graphic Designing",
+      "label": "Nadra Services ",
       "slug": "graphic-designing",
       "icon": "palette",
       "description": "Branding & visuals",
@@ -212,7 +212,7 @@ export const defaultDatabase: Database = {
     },
     {
       "id": "ai",
-      "label": "AI & Tools",
+      "label": "Graphic Designing ",
       "slug": "ai-tools",
       "icon": "sparkle",
       "description": "Smart automation",
@@ -228,11 +228,41 @@ export const defaultDatabase: Database = {
     },
     {
       "id": "other",
-      "label": "Other",
+      "label": "Ai Tools",
       "slug": "other",
       "icon": "chat",
       "description": "More services",
       "color": "#F5B73D"
+    },
+    {
+      "id": "new-category-m6mv",
+      "label": "New Category",
+      "slug": "new-category-m6mv",
+      "icon": "sparkle"
+    },
+    {
+      "id": "new-category-m75s",
+      "label": "New Category",
+      "slug": "new-category-m75s",
+      "icon": "sparkle"
+    },
+    {
+      "id": "new-category-m7ig",
+      "label": "New Category",
+      "slug": "new-category-m7ig",
+      "icon": "sparkle"
+    },
+    {
+      "id": "new-category-m91f",
+      "label": "New Category",
+      "slug": "new-category-m91f",
+      "icon": "sparkle"
+    },
+    {
+      "id": "new-category-m9hi",
+      "label": "New Category",
+      "slug": "new-category-m9hi",
+      "icon": "sparkle"
     }
   ],
   "products": [
