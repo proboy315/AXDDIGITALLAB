@@ -179,20 +179,20 @@ export const defaultDatabase: Database = {
       "color": "#22E07C"
     },
     {
+      "id": "whatsapp",
+      "label": "Ethical Hacking Tools/Methods",
+      "slug": "ethical-hacking-tools-methods",
+      "icon": "whatsapp",
+      "description": "Professional security expert provides you tools or methods to recovered or hacked other system",
+      "color": "#25D366"
+    },
+    {
       "id": "dev",
       "label": "Development",
       "slug": "development",
       "icon": "code",
       "description": "Web & app development",
       "color": "#4FC3F7"
-    },
-    {
-      "id": "whatsapp",
-      "label": "Ethical Hacking tools/methods",
-      "slug": "ethical-hacking-tools-methods",
-      "icon": "whatsapp",
-      "description": "Professional security expert provides you tools or methods to recovered or hacked other system",
-      "color": "#25D366"
     },
     {
       "id": "design",
@@ -236,32 +236,8 @@ export const defaultDatabase: Database = {
     },
     {
       "id": "new-category-m6mv",
-      "label": "New Category",
+      "label": "Moded Apps",
       "slug": "new-category-m6mv",
-      "icon": "sparkle"
-    },
-    {
-      "id": "new-category-m75s",
-      "label": "New Category",
-      "slug": "new-category-m75s",
-      "icon": "sparkle"
-    },
-    {
-      "id": "new-category-m7ig",
-      "label": "New Category",
-      "slug": "new-category-m7ig",
-      "icon": "sparkle"
-    },
-    {
-      "id": "new-category-m91f",
-      "label": "New Category",
-      "slug": "new-category-m91f",
-      "icon": "sparkle"
-    },
-    {
-      "id": "new-category-m9hi",
-      "label": "New Category",
-      "slug": "new-category-m9hi",
       "icon": "sparkle"
     }
   ],
