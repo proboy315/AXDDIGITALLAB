@@ -243,6 +243,27 @@ export const defaultDatabase: Database = {
   ],
   "products": [
     {
+      "id": "prod-1794498565514",
+      "title": "Facebook Hack",
+      "slug": "prod-1794498565514",
+      "description": "Get access of anyone Facebook account without detectable or without any issue in cheap price click on buy now to get more information ",
+      "longDescription": "",
+      "category": "whatsapp",
+      "image": "/uploads/mwdq7osnsu5pd1.jpg",
+      "gallery": [],
+      "price": 3500,
+      "oldPrice": 7500,
+      "rating": 5,
+      "reviews": "New",
+      "badge": "Hot Deal",
+      "tags": [],
+      "accent": "#1DB86A",
+      "icon": "sparkle",
+      "popularity": 56,
+      "deliveryTime": "1-2 Minutes ",
+      "inStock": true
+    },
+    {
       "id": "prod-1794498344872",
       "title": "Whatsapp Hack",
       "slug": "prod-1794498344872",
