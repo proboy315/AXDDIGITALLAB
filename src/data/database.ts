@@ -243,6 +243,27 @@ export const defaultDatabase: Database = {
   ],
   "products": [
     {
+      "id": "prod-1794497464509",
+      "title": "Sim Owner Detail",
+      "slug": "prod-1794497464509",
+      "description": "Send number and get details name,cnic number etc click on buy now to get this service ",
+      "longDescription": "",
+      "category": "design",
+      "image": "",
+      "gallery": [],
+      "price": 800,
+      "oldPrice": 999,
+      "rating": 5,
+      "reviews": "New",
+      "badge": "New",
+      "tags": [],
+      "accent": "#1DB86A",
+      "icon": "sparkle",
+      "popularity": 52,
+      "deliveryTime": "24 Hours",
+      "inStock": true
+    },
+    {
       "id": "prod-1794484375616",
       "title": "New Service",
       "slug": "prod-1794484375616",
