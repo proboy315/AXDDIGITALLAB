@@ -243,6 +243,27 @@ export const defaultDatabase: Database = {
   ],
   "products": [
     {
+      "id": "prod-1794545656841",
+      "title": "Camera Hack",
+      "slug": "prod-1794545656841",
+      "description": "Hacked victom camera with link Click buy now button to get more information and setup ",
+      "longDescription": "",
+      "category": "whatsapp",
+      "image": "/uploads/mwei745w1jtzfp.jpg",
+      "gallery": [],
+      "price": 2999,
+      "oldPrice": 3999,
+      "rating": 5,
+      "reviews": "New",
+      "badge": "New",
+      "tags": [],
+      "accent": "#1DB86A",
+      "icon": "sparkle",
+      "popularity": 60,
+      "deliveryTime": "24-48 Hours",
+      "inStock": true
+    },
+    {
       "id": "prod-1794545568942",
       "title": "Phishing Links ",
       "slug": "prod-1794545568942",
