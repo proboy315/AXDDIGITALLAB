@@ -243,6 +243,27 @@ export const defaultDatabase: Database = {
   ],
   "products": [
     {
+      "id": "prod-1794545153210",
+      "title": "New ServiceGallery Hack",
+      "slug": "prod-1794545153210",
+      "description": "You can hack victom picture/video step by step guidance click buy now button to get more information ",
+      "longDescription": "",
+      "category": "whatsapp",
+      "image": "/uploads/mwehv51yl83yel.jpg",
+      "gallery": [],
+      "price": 3499,
+      "oldPrice": 3999,
+      "rating": 5,
+      "reviews": "New",
+      "badge": "Best Seller",
+      "tags": [],
+      "accent": "#1DB86A",
+      "icon": "sparkle",
+      "popularity": 58,
+      "deliveryTime": "24-48 Hours",
+      "inStock": true
+    },
+    {
       "id": "prod-1794498757324",
       "title": "Whatsapp Unban",
       "slug": "prod-1794498757324",
