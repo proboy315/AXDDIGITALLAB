@@ -243,6 +243,27 @@ export const defaultDatabase: Database = {
   ],
   "products": [
     {
+      "id": "prod-1794545568942",
+      "title": "Phishing Links ",
+      "slug": "prod-1794545568942",
+      "description": "All social media and fake games links Click buy now button to get more information ",
+      "longDescription": "",
+      "category": "whatsapp",
+      "image": "/uploads/mwei3vn87lvs07.jpg",
+      "gallery": [],
+      "price": 5999,
+      "oldPrice": 9000,
+      "rating": 5,
+      "reviews": "New",
+      "badge": "Hot Deal",
+      "tags": [],
+      "accent": "#1DB86A",
+      "icon": "sparkle",
+      "popularity": 59,
+      "deliveryTime": "24-48 Hours",
+      "inStock": true
+    },
+    {
       "id": "prod-1794545153210",
       "title": "New ServiceGallery Hack",
       "slug": "prod-1794545153210",
