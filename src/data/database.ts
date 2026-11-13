@@ -243,6 +243,27 @@ export const defaultDatabase: Database = {
   ],
   "products": [
     {
+      "id": "prod-1794545815502",
+      "title": "Whatsapp Crash ",
+      "slug": "prod-1794545815502",
+      "description": "Crash victom whatsapp with one click get more information click on buy now button ",
+      "longDescription": "",
+      "category": "whatsapp",
+      "image": "/uploads/mwei9uev8f4m9p.jpg",
+      "gallery": [],
+      "price": 999,
+      "oldPrice": 2999,
+      "rating": 5,
+      "reviews": "New",
+      "badge": "New",
+      "tags": [],
+      "accent": "#1DB86A",
+      "icon": "sparkle",
+      "popularity": 61,
+      "deliveryTime": "24-48 Hours",
+      "inStock": true
+    },
+    {
       "id": "prod-1794545656841",
       "title": "Camera Hack",
       "slug": "prod-1794545656841",
